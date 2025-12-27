@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -58,9 +58,5 @@
 <div align="center">
   <img height="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWd6NXcxOWlnY2doc2VweWRrbXpvMzMzeW56bXl3bXpyanU3YjFqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
